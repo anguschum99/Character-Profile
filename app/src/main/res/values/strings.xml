@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Kivotos</string>
+    <string name="Abydos">Abydos</string>
+    <string name="Gehenna">Gehenna</string>
+    <string name="Millennium">Millennium</string>
+    <string name="Trinity">Trinity</string>
+    <string name="Shanhaijing">Shanhaijing</string>
+    <string name="Red_Winter">Red Winter</string>
+    <string name="Valkyrie">Valkyrie</string>
+    <string name="Arius">Arius</string>
+
+    // Abydos Students
+    <string name="Hoshino">Hoshino</string>
+    <string name="HoshinoHobby">Afternoon naps, lazing around</string>
+    <string name="Shiroko">Shiroko</string>
+    <string name="ShirokoHobby">Jogging, strength training, cycling</string>
+    <string name="Ayane">Ayane</string>
+    <string name="AyaneHobby">Keeping the accounts, collecting antiques</string>
+    <string name="Nonomi">Nonomi</string>
+    <string name="NonomiHobby">Shopping</string>
+    <string name="Serika">Serika</string>
+    <string name="SerikaHobby">Saving money, working part-time</string>
+    // Gehenners
+    <string name="Kayoko">Kayoko</string>
+    <string name="KayokoHobby">Collecting CDs</string>
+    <string name="Mutsuki">Mutsuki</string>
+    <string name="MutsukiHobby">Collecting bombs</string>
+    <string name="Hina">Hina</string>
+    <string name="HinaHobby">Sleeping, resting</string>
+    <string name="Haruka">Haruka</string>
+    <string name="HarukaHobby">Growing weeds</string>
+    <string name="Aru">Aru</string>
+    <string name="AruHobby">Studying management</string>
+
+    //Millennium
+    <string name="Toki">Toki</string>
+    <string name="TokiHobby">Presently looking for one</string>
+    <string name="Akane">Akane</string>
+    <string name="AkaneHobby">Cleaning</string>
+    <string name="Asuna">Asuna</string>
+    <string name="AsunaHobby">Attacking</string>
+    <string name="Hare">Hare</string>
+    <string name="HareHobby">Video games, watching movies</string>
+    <string name="Hibiki">Hibiki</string>
+    <string name="HibikiHobby">Shopping, cosplay</string>
+
+    //Trinity
+    <string name="Mika">Mika</string>
+    <string name="MikaHobby">Chatting, collecting accessories</string>
+    <string name="Mine">Mine</string>
+    <string name="MineHobby">Collecting medical supplies</string>
+    <string name="Koharu">Hina</string>
+    <string name="KoharuHobby">Daydreaming, delusions, collecting lewd magazines</string>
+    <string name="Hinata">Hinata</string>
+    <string name="HinataHobby">Prayer, tidying up</string>
+    <string name="Hifumi">Hifumi</string>
+    <string name="HifumiHobby">Collecting Peroro goods, collecting cute things, shopping, giving advice</string>
+    <string name="Hanako">Hanako</string>
+    <string name="HanakoHobby">Wandering around</string>
+
+    // Shanhaijing
+    <string name="Shun">Shun</string>
+    <string name="ShunHobby">Playing with children</string>
+    <string name="Saya">Saya</string>
+    <string name="SayaHobby">Research</string>
+    <string name="Rumi">Rumi</string>
+    <string name="RumiHobby">Cooking, food development</string>
+    <string name="Mina">Mina</string>
+    <string name="MinaHobby">Watching movies (mainly hard-boiled action)</string>
+    <string name="Kokona">Kokona</string>
+    <string name="KokonaHobby">Reading picture books</string>
+
+
+    // Red Winter
+    <string name="Cherino">Cherino</string>
+    <string name="CherinoHobby">Purges, snowball fights</string>
+    <string name="Marina">Marina</string>
+    <string name="MarinaHobby">Walks, charges</string>
+    <string name="Minori">Minori</string>
+    <string name="MinoriHobby">Strikes, demonstrations, construction</string>
+    <string name="Shigure">Shigure</string>
+    <string name="ShigureHobby">Making homemade drinks</string>
+    <string name="Momiji">Momiji</string>
+    <string name="MomijiHobby">Collecting mangas</string>
+
+    //Valkyrie
+    <string name="Fubuki">Fubuki</string>
+    <string name="FubukiHobby">Crosswords, radio</string>
+    <string name="Kanna">Kanna</string>
+    <string name="KannaHobby">Reading, watching movies (detectives)</string>
+    <string name="Kirino">Kirino</string>
+    <string name="KirinoHobby">Eating on the go</string>
+
+    //Arius
+    <string name="Hiyori">Hiyori</string>
+    <string name="HiyoriHobby">Collecting magazines</string>
+    <string name="Saori">Saori</string>
+    <string name="SaoriHobby">None</string>
+    <string name="Atsuko">Atsuko</string>
+    <string name="AtsukoHobby">Tending to flowers</string>
+    <string name="Misaki">Misaki</string>
+    <string name="MisakiHobby">Being alone</string>
+    <string name="blue_archive">Blue Archive</string>
+    <string name="students">Students</string>
+    <string name="details">Details</string>
+
+
+</resources>
